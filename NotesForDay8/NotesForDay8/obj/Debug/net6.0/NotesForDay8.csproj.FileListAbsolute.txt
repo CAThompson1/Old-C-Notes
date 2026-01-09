@@ -1,0 +1,15 @@
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\bin\Debug\net6.0\NotesForDay8.exe
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\bin\Debug\net6.0\NotesForDay8.deps.json
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\bin\Debug\net6.0\NotesForDay8.runtimeconfig.json
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\bin\Debug\net6.0\NotesForDay8.dll
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\bin\Debug\net6.0\NotesForDay8.pdb
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.csproj.AssemblyReference.cache
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.AssemblyInfoInputs.cache
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.AssemblyInfo.cs
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.csproj.CoreCompileInputs.cache
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.dll
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\refint\NotesForDay8.dll
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.pdb
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\NotesForDay8.genruntimeconfig.cache
+C:\Users\Caedan Thompson\Desktop\NotesForDay8\NotesForDay8\obj\Debug\net6.0\ref\NotesForDay8.dll
