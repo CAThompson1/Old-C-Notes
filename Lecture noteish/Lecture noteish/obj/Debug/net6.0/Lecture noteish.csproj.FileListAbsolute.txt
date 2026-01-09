@@ -1,0 +1,15 @@
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\bin\Debug\net6.0\Lecture noteish.exe
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\bin\Debug\net6.0\Lecture noteish.deps.json
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\bin\Debug\net6.0\Lecture noteish.runtimeconfig.json
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\bin\Debug\net6.0\Lecture noteish.dll
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\bin\Debug\net6.0\Lecture noteish.pdb
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.csproj.AssemblyReference.cache
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.AssemblyInfoInputs.cache
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.AssemblyInfo.cs
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.csproj.CoreCompileInputs.cache
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.dll
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\refint\Lecture noteish.dll
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.pdb
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\Lecture noteish.genruntimeconfig.cache
+C:\Users\Caedan Thompson\Desktop\Lecture noteish\Lecture noteish\obj\Debug\net6.0\ref\Lecture noteish.dll
